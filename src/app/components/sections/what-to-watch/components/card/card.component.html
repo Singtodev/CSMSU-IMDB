@@ -1,0 +1,36 @@
+<div class="relative h-auto">
+    <img
+    (click)="watchMovieDetail()"
+    src="{{ item.image }}"
+    class="w-full cursor-pointer bg-contain bg-no-repeat bg-center h-[274px] opacity-70 hover:opacity-100 transtion-all duration-300"
+    />
+    <div class="bg-second p-2">
+    <div class="min-h-[7rem]">
+    <div class="flex flex-row gap-x-2 text-gray-400">
+        <fa-icon class="text-md text-yellow-300" [icon]="faStar"></fa-icon>
+        {{ item.imdbRate }}
+    </div>
+    <div class="mt-2">
+       {{
+        item.name.length > 30 ? item.name.slice(0, 30) + "..." : item.name
+        }}
+    </div>
+    </div>
+    <div class="flex flex-col gap-y-2">
+    <div
+        (click)="watchOption()"
+        class="bg-gray-500 hover:bg-opacity-40 bg-opacity-30 cursor-pointer text-blue-400 rounded-md p-2 text-xs font-bold text-center"
+    >
+        Watch Option
+    </div>
+    <div class="flex flex-row mx-auto">
+        <div
+        (click)="watchTrailer()"
+        class="px-2 hover:bg-gray-500 cursor-pointer inline-block bg-opacity-50 text-white rounded-md p-2 text-xs font-bold text-center"
+        >
+        Trailer
+        </div>
+    </div>
+    </div>
+    </div>
+</div>
