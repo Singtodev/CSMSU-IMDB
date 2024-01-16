@@ -6,14 +6,6 @@
       <fa-icon class="text-md text-blue-500" [icon]="faCaretRight"></fa-icon>
     </div>
   </div>
-  <div class="flex flex-row border-l-4 px-4 gap-x-2 border-yellow-300 mt-6">
-    <span class="font-bold text-2xl">Top picks</span>
-    <fa-icon class="text-2xl text-yellow-300" [icon]="faCaretRight"></fa-icon>
-  </div>
-  <p class="text-md text-gray-400 my-3">TV shows and movies just for you</p>
-  <div class="grid grid-cols-6 gap-2">
-    <div *ngFor="let item of Movies" class="h-auto">
-        <app-card [item]="item"></app-card>
-    </div>
-  </div>
+  <app-section-title title="Top 10 on IMDb this week" description="Top 10 on IMDb this week" />
+  <app-movie-slider [movies]="Movies"></app-movie-slider>
 </div>

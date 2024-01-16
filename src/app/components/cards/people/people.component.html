@@ -1,0 +1,13 @@
+<div (click)="gotoCasterPage()" class="relaltive hover:opacity-30 transition-all duration-300 hover:cursor-pointer">
+    <div class="pb-2">
+            <img src="{{data.avatar}}" class="rounded-full w-[200px] h-[200px] object-cover bg-cover bg-center"  />
+    </div>
+    <div class="flex flex-col">
+        <div class="flex flex-row justify-center">
+            {{data.name}}
+        </div>
+        <div class="flex flex-row justify-center text-gray-500">
+            {{data.age}}
+        </div>
+    </div>
+</div>

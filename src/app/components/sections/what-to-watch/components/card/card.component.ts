@@ -28,11 +28,11 @@ export class CardComponent {
 
 
   public watchTrailer(){
-    this.router.navigate(['/movie/trailer/' + this.item.idx]);
+    this.router.navigate(['/movies/trailer/' + this.item.idx]);
   }
 
   public watchMovieDetail(){
-    this.router.navigate(['/movie/detail/' + this.item.idx]);
+    this.router.navigate(['/movies/detail/' + this.item.idx]);
   }
 
   public watchOption(){

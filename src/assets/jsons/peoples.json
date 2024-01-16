@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "age": "44",
+        "name": "Lin-Manuel Miranda",
+        "type": ["Actor", "Composer", "Music Department"],
+        "mini_bio": "Lin-Manuel Miranda wrote the first incarnation of \"In the Heights\" his sophomore year at Wesleyan University in Connecticut. Off-Broadway, \"In The Heights\" received nine Drama Desk nominations, including best music, best lyrics, and it won the award for outstanding ensemble performance; received the Lucille Lortel Award and Outer Critics Circle Award for best musical; received the Obie Award for outstanding music and lyrics; received a Theater World Award for outstanding debut Performance and the Clarence Derwent Award both for Mr. Miranda's performance. He is the recipient of the 2007 ASCAP Richard Rodgers New Horizons Award. He has appeared on The Sopranos (1999) and Sex and the City (1998), House (2004), and The Electric Company (2006). He is also a co-founding member of Freestyle Love Supreme, a hip-hop comedy group that tours comedy festivals all over the world.",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTU0MDM2Mzg0OV5BMl5BanBnXkFtZTgwMjA1MDE2MDI@._V1_FMjpg_UY736_.jpg",
+        "videos": "62",
+        "gallery_image": [""],
+        "tailer": {
+          "description": "Lamb and Anne the Alligator, travel around the country and meet up with famous live-action musical artist friends who help them tackle a learning challenge with the assistance of a new original song.",
+          "movies": [
+              {
+                  "url": "https://www.imdb.com/video/vi3033449753/?playlistId=nm0592135&ref_=ext_shr_lnk",
+                  "picture": "",
+                  "title": "Jam van",
+                  "description": "It follows Lamb and Anne the Alligator. They travel around the country and meet up with famous live-action musical artist friends who help them tackle a learning challenge with the assistance of a new original song.",
+                  "type": "TV-Y | Family"
+              }
+          ]
+          }
+      }
+]
