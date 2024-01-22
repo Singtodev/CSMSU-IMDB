@@ -3,13 +3,13 @@ import { Component, Input } from '@angular/core';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-people',
+  selector: 'app-people-card',
   standalone: true,
   imports: [CommonModule],
   templateUrl: './people.component.html',
   styleUrl: './people.component.scss'
 })
-export class PeopleComponent {
+export class PeopleCardComponent {
   @Input() data: any = {}
 
   constructor(public router: Router){

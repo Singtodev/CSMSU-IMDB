@@ -9,16 +9,14 @@ export interface Movie {
   imdbRate: string,
   rate: string
 }
-
 @Component({
-  selector: 'app-card',
+  selector: 'app-movie-card',
   standalone: true,
   imports: [FontAwesomeModule],
-  templateUrl: './card.component.html',
-  styleUrl: './card.component.scss'
+  templateUrl: './movie-card.component.html',
+  styleUrl: './movie-card.component.scss'
 })
-
-export class CardComponent {
+export class MovieCardComponent {
   public faCaretRight = faCaretRight;
   public faStar = faStar;
 
@@ -38,5 +36,4 @@ export class CardComponent {
   public watchOption(){
     alert("Options modal is worked! " + this.item.idx);
   }
-
 }

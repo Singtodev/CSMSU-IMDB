@@ -1,11 +1,11 @@
 import { CommonModule } from '@angular/common';
 import { Component, Input } from '@angular/core';
-import { PeopleComponent } from '../../cards/people/people.component';
+import { PeopleCardComponent  } from '../../cards/people-card/people.component';
 
 @Component({
   selector: 'app-people-slider',
   standalone: true,
-  imports: [CommonModule , PeopleComponent],
+  imports: [CommonModule , PeopleCardComponent ],
   templateUrl: './people-slider.component.html',
   styleUrl: './people-slider.component.scss'
 })

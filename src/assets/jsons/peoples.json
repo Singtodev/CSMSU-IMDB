@@ -1,24 +1,90 @@
 [
     {
         "id": 1,
-        "age": "44",
+        "age": 44,
         "name": "Lin-Manuel Miranda",
         "type": ["Actor", "Composer", "Music Department"],
         "mini_bio": "Lin-Manuel Miranda wrote the first incarnation of \"In the Heights\" his sophomore year at Wesleyan University in Connecticut. Off-Broadway, \"In The Heights\" received nine Drama Desk nominations, including best music, best lyrics, and it won the award for outstanding ensemble performance; received the Lucille Lortel Award and Outer Critics Circle Award for best musical; received the Obie Award for outstanding music and lyrics; received a Theater World Award for outstanding debut Performance and the Clarence Derwent Award both for Mr. Miranda's performance. He is the recipient of the 2007 ASCAP Richard Rodgers New Horizons Award. He has appeared on The Sopranos (1999) and Sex and the City (1998), House (2004), and The Electric Company (2006). He is also a co-founding member of Freestyle Love Supreme, a hip-hop comedy group that tours comedy festivals all over the world.",
         "avatar": "https://m.media-amazon.com/images/M/MV5BMTU0MDM2Mzg0OV5BMl5BanBnXkFtZTgwMjA1MDE2MDI@._V1_FMjpg_UY736_.jpg",
-        "videos": "62",
-        "gallery_image": [""],
-        "tailer": {
-          "description": "Lamb and Anne the Alligator, travel around the country and meet up with famous live-action musical artist friends who help them tackle a learning challenge with the assistance of a new original song.",
-          "movies": [
-              {
-                  "url": "https://www.imdb.com/video/vi3033449753/?playlistId=nm0592135&ref_=ext_shr_lnk",
-                  "picture": "",
-                  "title": "Jam van",
-                  "description": "It follows Lamb and Anne the Alligator. They travel around the country and meet up with famous live-action musical artist friends who help them tackle a learning challenge with the assistance of a new original song.",
-                  "type": "TV-Y | Family"
-              }
-          ]
-          }
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+      },
+      {
+        "id": 2,
+        "age": 55,
+        "name": "Olivia d'Abo",
+        "type": ["Actress", "Music Department", "Producer"],
+        "mini_bio": "Olivia d'Abo is an English actress and singer from London. She debuted as a teenager in 1984, and has remained active over the following decades. Her most famous role was playing the free-spirited Karen Arnold in the historical television series \"The Wonder Years\" (1988 -1993). The series lasted for 6 seasons, and a total of 115 episodes."        ,
+        "avatar": "https://m.media-amazon.com/images/M/MV5BNjI0MDE2ODk0OF5BMl5BanBnXkFtZTgwNTI2MTIzNTE@._V1_FMjpg_UY2048_.jpg",
+        "videos": 57,
+        "gallery_image": 48,
+        "tailer": 2
+      },
+      {
+        "id": 3,
+        "age": 77,
+        "name": "John Hurt",
+        "type": ["Actor" , "Soundtrack"],
+        "mini_bio": "One of stage, screen and TV's finest transatlantic talents, slight, gravel-voiced, pasty-looking John Vincent Hurt was born on January 22, 1940, in Shirebrook, a coal mining village, in Derbyshire, England. The youngest child of Phyllis (Massey), an engineer and one-time actress, and Reverend Arnould Herbert Hurt, an Anglican clergyman and mathematician, his quiet shyness betrayed an early passion for acting. First enrolled at the Grimsby Art School and St. Martin's School of Art, his focus invariably turned from painting to acting.",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTM1NTgyMTAyOV5BMl5BanBnXkFtZTcwMTE4MjQwNA@@._V1_FMjpg_UX284_.jpg",
+        "videos": 120,
+        "gallery_image": 120,
+        "tailer": null
+      },
+      {
+        "id": 4,
+        "age": 95,
+        "name": "Stan Lee",
+        "type": ["Producer" ,"Writer","Actor"],
+        "mini_bio": "Stan Lee was an American comic-book writer, editor, and publisher, who was executive vice president and publisher of Marvel Comics.",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_FMjpg_UX278_.jpg",
+        "videos": 66,
+        "gallery_image": 120,
+        "tailer": null
+      },
+      {
+        "id": 5,
+        "age": 38,
+        "name": "Eva Johnson",
+        "type": ["Actress", "Model"],
+        "mini_bio": "Eva Johnson is a versatile actress and model known for her captivating performances on both stage and screen. With a background in theater, she has seamlessly transitioned into the world of cinema, earning acclaim for her roles in various genres.",
+        "avatar": "https://m.media-amazon.com/images/S/pv-target-images/1867d8e33e041eef543a635d9feeb91fecd91d02d8bb0e84917d9e6c51dbb83c._SX600_.jpg",
+        "videos": 40,
+        "gallery_image": 30,
+        "trailer": null
+      },
+      {
+        "id": 6,
+        "age": 50,
+        "name": "Lucas Blackwood",
+        "type": ["Actor", "Writer"],
+        "mini_bio": "Lucas Blackwood is an accomplished actor and writer, known for his intense and transformative performances. With a career spanning over two decades, he has earned critical acclaim for his work in both film and television.",
+        "avatar": "https://i.pinimg.com/564x/1e/5c/52/1e5c52e60b2ac3ec14eefabed714265f.jpg",
+        "videos": 75,
+        "gallery_image": 60,
+        "trailer": null
+      },
+      {
+        "id": 7,
+        "age": 32,
+        "name": "Isabella Sanchez",
+        "type": ["Actress", "Producer"],
+        "mini_bio": "Isabella Sanchez is a rising star in the entertainment industry, making a mark with her compelling performances and behind-the-scenes contributions as a producer. Her dedication to her craft has garnered attention and accolades.",
+        "avatar": "https://images6.fanpop.com/image/articles/267000/movies_267769_top_full.jpg?cache=1529631958",
+        "videos": 50,
+        "gallery_image": 40,
+        "trailer": null
+      },
+      {
+        "id": 8,
+        "age": 48,
+        "name": "Victor Chen",
+        "type": ["Actor", "Director"],
+        "mini_bio": "Victor Chen is a highly respected actor and director known for his versatility and skill in bringing characters to life. His passion for storytelling has led to successful collaborations in both film and theater.",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BZTU4ODc0OGMtYjg5My00NDFhLWE2ODMtMzE1MGE4NGFhZWM3XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_FMjpg_UX290_.jpg",
+        "videos": 90,
+        "gallery_image": 80,
+        "trailer": null
       }
 ]

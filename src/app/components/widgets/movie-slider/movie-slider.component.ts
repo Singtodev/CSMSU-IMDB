@@ -1,11 +1,11 @@
 import { Component, Input } from '@angular/core';
-import { CardComponent, Movie } from '../../sections/what-to-watch/components/card/card.component';
+import { MovieCardComponent, Movie } from '../../cards/movie-card/movie-card.component';
 import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-movie-slider',
   standalone: true,
-  imports: [CommonModule,CardComponent ],
+  imports: [CommonModule,MovieCardComponent ],
   templateUrl: './movie-slider.component.html',
   styleUrl: './movie-slider.component.scss'
 })

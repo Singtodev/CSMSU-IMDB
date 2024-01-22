@@ -12,5 +12,11 @@ import { PeopleSliderComponent } from '../../widgets/people-slider/people-slider
   styleUrl: './caster.component.scss'
 })
 export class CasterComponent {
-  public peoples: any[] = Peoples;
+  public peoples: any[] = [];
+
+
+  constructor(){
+    this.peoples = Peoples;
+    this.peoples.length = 6;
+  }
 }
