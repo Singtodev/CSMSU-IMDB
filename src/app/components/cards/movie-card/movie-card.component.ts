@@ -3,11 +3,12 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faCaretRight , faStar } from '@fortawesome/free-solid-svg-icons';
 import { Router } from '@angular/router';
 export interface Movie {
-  idx: number,
-  name: string,
-  image: string,
-  imdbRate: string,
-  rate: string
+  idx?: number,
+  name?: string,
+  image?: string,
+  imdbRate?: string,
+  rate?: string,
+  video?: string,
 }
 @Component({
   selector: 'app-movie-card',

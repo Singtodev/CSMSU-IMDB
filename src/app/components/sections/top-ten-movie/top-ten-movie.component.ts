@@ -20,11 +20,13 @@ export class TopTenMovieComponent {
   }
   
   randomMovie(){
-    let allMovies = [];
-    allMovies = Movies.filter((movie) =>  movie.idx % Math.floor(Math.random() * 10 ) == 0);
-    if( allMovies.length > 6 ){
-      allMovies.length = 6;
+    let shuffledMovies = [...Movies];
+    // Fisher-Yates shuffle algorithm
+    for (let i = shuffledMovies.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffledMovies[i], shuffledMovies[j]] = [shuffledMovies[j], shuffledMovies[i]];
     }
-    return allMovies || [];
+    // Take the first six elements
+    return shuffledMovies.slice(0, 6);
   }
 }

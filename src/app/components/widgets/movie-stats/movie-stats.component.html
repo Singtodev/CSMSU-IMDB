@@ -1,0 +1,66 @@
+<div class="w-full flex px-2 flex justify-between py-1">
+  <div class="flex flex-col">
+    <div class="text-5xl">
+      {{ movie.name }}
+    </div>
+    <div class="flex flex-row text-sm gap-x-2 font-light text-gray-400 py-1">
+      <span>2023</span>
+      <span class="before:content-['\2022'] before:mr-1">R</span>
+      <span class="before:content-['\2022'] before:mr-1">2h 11m</span>
+    </div>
+  </div>
+  <div class="flex flex-row gap-x-8 text-xs py-2 text-gray-400 font-semibold">
+    <div class="flex flex-col">
+      <div class="tracking-wider pb-1">IMDb RATING</div>
+      <div
+        (click)="onClickImdbRate()"
+        class="h-[40px] flex flex-row gap-x-2 items-center hover:bg-second transition-all duration-300 px-1 rounded-md cursor-pointer"
+      >
+        <fa-icon class="text-lg text-yellow-300" [icon]="faStar"></fa-icon>
+        <div class="flex flex-col">
+          <div class="flex flex-row gap-x-1">
+            <span class="text-xl text-white tracking-wider">{{
+              movieRate
+            }}</span>
+            <span class="font-light tracking-wider">/ 10</span>
+          </div>
+          <div class="text-gray-400 font-light tracking-wider">
+            {{ movieVoteCount }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="flex flex-col">
+      <div class="tracking-wider pb-1">YOUR RATING</div>
+      <div
+        (click)="onClickYourRate()"
+        class="h-[40px] flex text-blue-400 flex-row gap-x-2 items-center hover:bg-second transition-all duration-300 px-1 rounded-md cursor-pointer"
+      >
+        <fa-icon class="text-lg text-blue-300" [icon]="StarRegular"></fa-icon>
+        <span class="text-xl">Rate</span>
+      </div>
+    </div>
+    <div class="flex flex-col">
+      <div class="tracking-wider pb-1">POPULARITY</div>
+      <div
+        (click)="onClickPopularity()"
+        class="h-[40px] flex text-gray-400 flex-row gap-x-2 items-center hover:bg-second transition-all duration-300 px-1 rounded-md cursor-pointer"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          class="ipc-icon ipc-icon--popularity-neutral sc-5f7fb5b4-5 cAKjmx"
+          viewBox="0 0 24 24"
+          fill="currentColor"
+          role="presentation"
+        >
+          <path
+            d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm0 18c-4 0-7.4-3-8-6.9l10-.1v2c0 .5.6.7 1 .4l3-3c.2-.2.2-.5 0-.7l-3-3c-.4-.4-.9-.1-.9.3v2h-10c.4-4 3.8-7 7.9-7 4.4 0 8 3.6 8 8s-3.6 8-8 8z"
+          ></path>
+        </svg>
+        <span class="text-xl">1</span>
+      </div>
+    </div>
+  </div>
+</div>
