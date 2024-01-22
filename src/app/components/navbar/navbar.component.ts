@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faBars , faCaretDown , faSearch , faBookmark} from '@fortawesome/free-solid-svg-icons';
 @Component({
@@ -13,4 +14,12 @@ export class NavbarComponent {
   public faCaretDown = faCaretDown;
   public faSearch = faSearch;
   public faBookmark = faBookmark;
+
+
+  constructor(private readonly router : Router){}
+
+
+  public gotoHomePage(){
+    this.router.navigate(['/']);
+  }
 }

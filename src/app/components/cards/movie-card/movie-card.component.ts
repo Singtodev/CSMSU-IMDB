@@ -30,7 +30,7 @@ export class MovieCardComponent {
   }
 
   public watchMovieDetail(){
-    this.router.navigate(['/movies/detail/' + this.item.idx]);
+    this.router.navigate(['/movies/' + this.item.idx]);
   }
 
   public watchOption(){
