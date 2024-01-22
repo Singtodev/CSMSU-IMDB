@@ -22,7 +22,7 @@ export class MovieIdComponent implements OnInit , OnDestroy {
   public movieId: number | null = null;
   private routeSub: Subscription;
   private movies: any[] = [];
-  public movie: Movie = {};
+  public movie: any;
   public movieRate: string = '';
   public movieVoteCount: string = '';
   public faArrowLeft = faArrowLeft;

@@ -17,6 +17,5 @@ export class CasterComponent {
 
   constructor(){
     this.peoples = Peoples;
-    this.peoples.length = 6;
   }
 }

@@ -1,322 +1,131 @@
 [
   {
     "idx": 1,
-    "name": "Rebel Moon: Part One - A Child of Fire",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTdmZDNhNjgtMjk4NS00YzQzLTliM2UtMDEzZDY2MDZmMTcwXkEyXkFqcGdeQXVyMTA4MzgzNDM3._V1_QL75_UY207_CR0,0,140,207_.jpg",
-    "imdbRate": "5.7\u00a0(65K)",
-    "rate": "20232h 13mPG-13",
-    "video": "https://www.youtube.com/watch?v=fhr3MzT6exg"
-  },
-  {
-    "idx": 2,
-    "name": "Saltburn",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2NmMDQ1ZWEtNDU4OS00MGIxLWEyMGMtMTM2YmFkYzNhYmMxXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "7.2\u00a0(59K)",
-    "rate": "20232h 11mR",
-    "video": "https://www.youtube.com/watch?v=lALMdJf6UUE"
-  },
-  {
-    "idx": 3,
-    "name": "Leave the World Behind",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTUzM2I3NDEtMjNhYi00NTQ0LThmZDItZTMyMzM2MjJmZGRjXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "imdbRate": "6.5\u00a0(131K)",
-    "rate": "20232h 18mR",
-    "video": "https://www.youtube.com/watch?v=cMVBi_e8o-Y"
-  },
-  {
-    "idx": 4,
-    "name": "Wonka",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY207_CR13,0,140,207_.jpg",
-    "imdbRate": "7.3\u00a0(47K)",
-    "rate": "20231h 56mPG",
-    "video": "https://www.youtube.com/watch?v=otNh9bTjXWg"
-  },
-  {
-    "idx": 5,
-    "name": "Aquaman and the Lost Kingdom",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTkxM2FiYjctYjliYy00NjY2LWFmOTEtMWZiYWRjNjA4MGYxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.0\u00a0(21K)",
-    "rate": "20232h 4mPG-13",
-    "video": "https://www.youtube.com/watch?v=UGc5Tzz19UY"
-  },
-  {
-    "idx": 6,
-    "name": "Anyone But You",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmQ2MmY2MmYtMjUzOS00Y2MyLWE4YmQtYzIzYWQ4OTdmMGU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.6\u00a0(3.8K)",
-    "rate": "20231h 43mR",
-    "video": "https://www.youtube.com/watch?v=UtjH6Sk7Gxs"
-  },
-  {
-    "idx": 7,
-    "name": "Poor Things",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGIyYWMzNjktNDE3MC00YWQyLWEyMmEtN2ZmNzZhZDk3NGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "8.5\u00a0(14K)",
-    "rate": "20232h 21mR",
-    "video": "https://www.youtube.com/watch?v=RlbR5N6veqw"
-  },
-  {
-    "idx": 8,
-    "name": "Maestro",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGI2MzQ1NzQtMmVkOC00ZGI0LWI3YjQtN2FjMzQ1NmRhNzFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.8\u00a0(24K)",
-    "rate": "20232h 9mR",
-    "video": "https://www.youtube.com/watch?v=gJP2QblqLA0"
-  },
-  {
-    "idx": 9,
-    "name": "Love Actually",
-    "image": "https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_QL75_UY207_CR3,0,140,207_.jpg",
-    "imdbRate": "7.6\u00a0(524K)",
-    "rate": "20032h 15mR",
-    "video": "https://www.youtube.com/watch?v=H9Z3_ifFheQ"
-  },
-  {
-    "idx": 10,
-    "name": "The Iron Claw",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGE5NjllZTEtMGJjNy00ZTFmLThlNDItNmNiZTgyOTQ4OTA2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "8.1\u00a0(6.8K)",
-    "rate": "20232h 12mR",
-    "video": "https://www.youtube.com/watch?v=8KVsaoveTbw"
-  },
-  {
-    "idx": 11,
-    "name": "Home Alone",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "7.7\u00a0(639K)",
-    "rate": "19901h 43mPG",
-    "video": "https://www.youtube.com/watch?v=iO-4cR-2xzk"
-  },
-  {
-    "idx": 12,
-    "name": "Dunki",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_QL75_UY207_CR9,0,140,207_.jpg",
-    "imdbRate": "7.8\u00a0(55K)",
-    "rate": "20232h 40m",
-    "video": "https://www.youtube.com/watch?v=9Z79T_o4v8c"
-  },
-  {
-    "idx": 13,
-    "name": "Oppenheimer",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "8.4\u00a0(574K)",
-    "rate": "20233hR",
-    "video": "https://www.youtube.com/watch?v=uYPbbksJxIg"
-  },
-  {
-    "idx": 14,
-    "name": "National Lampoon's Christmas Vacation",
-    "image": "https://m.media-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "7.5\u00a0(217K)",
-    "rate": "19891h 37mPG-13",
-    "video": "https://www.youtube.com/watch?v=NBTTipJX-h4"
-  },
-  {
-    "idx": 15,
-    "name": "Barbie",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.9\u00a0(441K)",
-    "rate": "20231h 54mPG-13",
-    "video": "https://www.youtube.com/watch?v=pBk4NYhWNMM"
-  },
-  {
-    "idx": 16,
-    "name": "Animal",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_QL75_UY207_CR13,0,140,207_.jpg",
-    "imdbRate": "6.8\u00a0(58K)",
-    "rate": "20233h 24m",
-    "video": "https://www.youtube.com/watch?v=8FkLRUJj-o0"
-  },
-  {
-    "idx": 17,
-    "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-    "imdbRate": "6.9\u00a0(73K)",
-    "rate": "20232h 37mPG-13",
-    "video": "https://www.youtube.com/watch?v=RDE6Uz73A7g"
-  },
-  {
-    "idx": 18,
-    "name": "It's a Wonderful Life",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-    "imdbRate": "8.6\u00a0(491K)",
-    "rate": "19462h 10mPG",
-    "video": "https://www.youtube.com/watch?v=iLR3gZrU2Xo"
-  },
-  {
-    "idx": 19,
-    "name": "Die Hard",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "imdbRate": "8.2\u00a0(931K)",
-    "rate": "19882h 12mR",
-    "video": "https://www.youtube.com/watch?v=Lx3MGrafykU"
-  },
-  {
-    "idx": 20,
-    "name": "Killers of the Flower Moon",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjE4ZTZlNDAtM2Q3YS00YjFhLThjN2UtODg2ZGNlN2E2MWU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "imdbRate": "7.8\u00a0(143K)",
-    "rate": "20233h 26mR",
-    "video": "https://www.youtube.com/watch?v=EP34Yoxs3FQ"
-  },
-  {
-    "idx": 21,
-    "name": "Ferrari",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTM0YTBlMjctZjJjZS00MDU4LTg5YmQtMDY5Y2FhMWZiMjQ2XkEyXkFqcGdeQXVyNzU0NzQxNTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.8\u00a0(6.5K)",
-    "rate": "20232h 4mR",
-    "video": "https://www.youtube.com/watch?v=CgeleP7nWN0"
-  },
-  {
-    "idx": 22,
-    "name": "A Christmas Story",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-    "imdbRate": "7.9\u00a0(167K)",
-    "rate": "19831h 33mPG",
-    "video": "https://www.youtube.com/watch?v=AbFP0ay5vME"
-  },
-  {
-    "idx": 23,
-    "name": "How the Grinch Stole Christmas",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.3\u00a0(286K)",
-    "rate": "20001h 44mPG",
-    "video": "https://www.youtube.com/watch?v=pbFma8Bd-AI"
-  },
-  {
-    "idx": 24,
-    "name": "The Holdovers",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDc2MzNkMjMtZDY5NC00NmQ0LWI1NjctZjRhNWIzZjc4MGRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "8.0\u00a0(36K)",
-    "rate": "20232h 13mR",
-    "video": "https://www.youtube.com/watch?v=AhKLpJmHhIg"
-  },
-  {
-    "idx": 25,
-    "name": "Salaar",
-    "image": "https://m.media-amazon.com/images/M/MV5BODAyYjIzZDEtMjFkMy00OGE2LWEzODItYmE4NjhkNzYxNmRjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_QL75_UY207_CR2,0,140,207_.jpg",
-    "imdbRate": "6.7\u00a0(47K)",
-    "rate": "20232h 55m",
-    "video": "https://www.youtube.com/watch?v=9Im1q4gvk1M"
-  },
-  {
-    "idx": 26,
-    "name": "The Family Plan",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWQzZWFmOWMtODM4Ni00YjYwLWI4ZTYtOTkwZmYyMzFkN2E2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "imdbRate": "6.3\u00a0(21K)",
-    "rate": "20231h 58mPG-13",
-    "video": "https://www.youtube.com/watch?v=ns8weNznn1Y"
-  },
-  {
-    "idx": 27,
-    "name": "The Color Purple",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjBkNGE0NGYtYmU5Ny00NjRiLTk5MmYtMWU4NzYxMDE4YWY4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "7.9\u00a0(2.5K)",
-    "rate": "20232h 21mPG-13",
-    "video": "https://www.youtube.com/watch?v=wPwzBUui1GA"
-  },
-  {
-    "idx": 28,
-    "name": "Elf",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "7.1\u00a0(306K)",
-    "rate": "20031h 37mPG",
-    "video": "https://www.youtube.com/watch?v=44woSCKuu5E"
-  },
-  {
-    "idx": 29,
-    "name": "Parasite",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "8.5\u00a0(916K)",
-    "rate": "20192h 12mR",
-    "video": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
-  },
-  {
-    "idx": 30,
-    "name": "Godzilla Minus One",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTZkNWQyMDEtMmRhNi00Nzc5LWFhNjQtMWRiOTllYmEzOWE5XkEyXkFqcGdeQXVyMTMwNzYxMTUx._V1_QL75_UY207_CR3,0,140,207_.jpg",
-    "imdbRate": "8.4\u00a0(31K)",
-    "rate": "20232h 4mPG-13",
-    "video": "https://www.youtube.com/watch?v=VvSrHIX5a-0"
-  },
-  {
-    "idx": 31,
-    "name": "Indiana Jones and the Dial of Destiny",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2M0ZGEwMGQtNzMxOC00OTU2LWExZmUtMTA5N2RhMDZlY2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.6\u00a0(172K)",
-    "rate": "20232h 34mPG-13",
-    "video": "https://www.youtube.com/watch?v=eQfMbSe7F2g"
-  },
-  {
-    "idx": 32,
-    "name": "Home Alone 2: Lost in New York",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.9\u00a0(395K)",
-    "rate": "19922hPG",
-    "video": "https://www.youtube.com/watch?v=h_bUcNjmuSk"
-  },
-  {
-    "idx": 33,
-    "name": "White Christmas",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjI0ZTk0ZjQtZTMzOS00NDdmLTk0YzUtZTQ4NGRkNWFhZTkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-    "imdbRate": "7.6\u00a0(50K)",
-    "rate": "19542hNot Rated",
-    "video": "https://www.youtube.com/watch?v=30TkClWvT5k"
-  },
-  {
-    "idx": 34,
-    "name": "The Boys in the Boat",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGU1Nzc4YWMtZmZiYi00NzFkLTk2MDUtOGRlNGU1Njk0ZTdkXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "imdbRate": "7.3\u00a0(2.1K)",
-    "rate": "20232h 3mPG-13",
-    "video": "https://www.youtube.com/watch?v=dfEA-udzjjQ"
-  },
-  {
-    "idx": 35,
-    "name": "The Creator",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDUyNTIzNDQtYTZmMi00M2FlLTgyZjUtYWViZWNhMDYzMjE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.8\u00a0(104K)",
-    "rate": "20232h 13mPG-13",
-    "video": "https://www.youtube.com/watch?v=ex3C1-5Dhb8"
-  },
-  {
-    "idx": 36,
-    "name": "Dream Scenario",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDI4MjI1YmYtYzg1Ny00MWQzLWIwNTgtNmFkMWNhYTYzYjdkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "imdbRate": "7.1\u00a0(18K)",
-    "rate": "20231h 42mR",
-    "video": "https://www.youtube.com/watch?v=q3x9iUL-74w"
-  },
-  {
-    "idx": 37,
-    "name": "Candy Cane Lane",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTU3MWYzNzEtZmYwNS00ZjhjLTljMTQtYzk5NTk1ZTJkYTZjXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "5.6\u00a0(18K)",
-    "rate": "20231h 57mPG",
-    "video": "https://www.youtube.com/watch?v=Y9d2G3l3UO4"
-  },
-  {
-    "idx": 38,
-    "name": "Chicken Run: Dawn of the Nugget",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzNhZTkyMWItMTAwZS00ZGJkLTlkMTctNjc5ZDdkMDNmMmE1XkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_QL75_UX140_CR0,0,140,207_.jpg",
-    "imdbRate": "6.4\u00a0(14K)",
-    "rate": "20231h 41mPG",
-    "video": "https://www.youtube.com/watch?v=_-Kz67kea8Q"
-  },
-  {
-    "idx": 39,
-    "name": "May December",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTc1ODM5YjQtMmQzNS00Y2FkLWJhNTgtYTE5ZDY0NjQyNmRjXkEyXkFqcGdeQXVyMTY3ODE5NTY1._V1_QL75_UY207_CR13,0,140,207_.jpg",
-    "imdbRate": "7.0\u00a0(27K)",
-    "rate": "20231h 57mR",
-    "video": "https://www.youtube.com/watch?v=_2wg45bRRF8"
-  },
-  {
-    "idx": 40,
-    "name": "Migration",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_QL75_UX140_CR0,1,140,207_.jpg",
-    "imdbRate": "6.9\u00a0(3.7K)",
-    "rate": "20231h 23mPG",
-    "video": "https://www.youtube.com/watch?v=hWbfohXIdEU"
+    "name": "Spider-Man: Across the Spider-Verse",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "imdbRate": "8.6\u00a0(336K)",
+    "popularity": 66,
+    "video": "https://www.youtube.com/watch?v=cqGjhVJWtEg",
+    "categories": ["Animation", "Action", "Adventure"],
+    "shortDetail": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+    "about": {
+      "rate_movie": {
+        "year": "2023",
+        "rate": "PG",
+        "duration": "2h 20m"
+      },
+      "reviews": {
+        "userReview": "1.5K",
+        "criticReview": "319"
+      },
+      "details": [
+        {
+          "order": 1,
+          "key": "Directors",
+          "values": [
+            {
+              "id": 1,
+              "age": 46,
+              "name": "Joaquim Dos Santos",
+              "type": ["Producer", "Art Department", "Animation Department"],
+              "mini_bio": "Joaquim Dos Santos was born on 22 June 1977 in Lisbon, Portugal. He is a producer, known for Spider-Man: Across the Spider-Verse (2023), The Legend of Korra (2012) and Avatar: The Last Airbender (2005).",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BNjcyNTcxOTU4MV5BMl5BanBnXkFtZTcwODAxNzkyMg@@._V1_FMjpg_UX1138_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+            },
+            {
+              "id": 2,
+              "age": 50,
+              "name": "Kemp Powers",
+              "type": ["Writer", "Director", "Producer"],
+              "mini_bio": "Kemp Powers is known for One Night in Miami... (2020), Soul (2020) and Spider-Man: Across the Spider-Verse (2023).",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BZmU5MTBlMzgtNGYzOS00MmYxLWI5YmMtNTQxNmEyZjI5ZjVmXkEyXkFqcGdeQXVyMTA3ODI2ODY@._V1_FMjpg_UY1434_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+            },
+            {
+              "id": 3,
+              "age": 40,
+              "name": "Justin K. Thompson",
+              "type": ["Director"],
+              "mini_bio": "Justin K. Thompson is known for Spider-Man: Across the Spider-Verse (2023), Spider-Man: Into the Spider-Verse (2018) and Cloudy with a Chance of Meatballs 2 (2013).",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BOWQ4ZDhjNDEtYzNjZi00OTNkLWFjNzQtZWQyZDcxYmI4ZDQwXkEyXkFqcGdeQXVyOTk3NzgyNTE@._V1_FMjpg_UY2055_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "key": "Writers",
+          "values": [
+            {
+              "id": 4,
+              "age": 45,
+              "name": "Phil Lord",
+              "type": ["Producer", "Writer", "Actor"],
+              "mini_bio": "Philip A. Lord is an American filmmaker, producer and writer who collaborates with Christopher Miller. They both worked on Clone High, a cult classic animated sci-fi teen comedy show, The Lego Movie, 21 Jump Street, 22 Jump Street and Spider-Man: Into the Spider-Verse. Into the Spider-Verse is considered one of the best animated films of the 2010s and won Best Animated Feature.",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BOTI5NTUwMTAwOV5BMl5BanBnXkFtZTcwMDIxMDgzOQ@@._V1_FMjpg_UY2048_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+            },
+            {
+              "id": 5,
+              "age": 30,
+              "name": "Christopher Miller",
+              "type": ["Producer", "Writer", "Director"],
+              "mini_bio": "Christopher Miller is an American filmmaker, producer and writer who collaborates with Philip A. Lord. They both worked on Clone High, a cult classic animated sci-fi teen comedy show, The Lego Movie, Cloudy with a Chance of Meatballs, 21 Jump Street, 22 Jump Street and Spider-Man: Into the Spider-Verse. Into the Spider-Verse is considered one of the best animated films of the 2010s and won Best Animated Feature.",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BMTAzNDAzODgzOTheQTJeQWpwZ15BbWU3MDc5MDg4MTg@._V1_FMjpg_UY2048_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+            },
+            {
+              "id": 6,
+              "age": 34,
+              "name": "Dave Callaham",
+              "type": ["Producer", "Writer"],
+              "mini_bio": "Dave Callaham was born in Fresno, California, USA. Dave is a writer and producer, known for Shang-Chi and the Legend of the Ten Rings (2021), Spider-Man: Across the Spider-Verse (2023) and Jean-Claude Van Johnson (2016). Dave has been married to Bree Tichy since 9 May 2009. They have one child.",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BOTgwODBmZTItMGZmYi00MWY2LTllZjMtZDc4YjM0NzRmMjNhXkEyXkFqcGdeQXVyNDEzMDkzOQ@@._V1_FMjpg_UX986_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "key": "Stars",
+          "values": [
+            {
+              "id": 7,
+              "age": 40,
+              "name": "Shameik Moore",
+              "type": ["Actor", "SoundTrack"],
+              "mini_bio": "Born in Atlanta of Jamaican descent, Shameik Moore booked his first lead role of Malcolm in Rick Famuyiwa's Dope (2015), produced by Forest Whitaker and Nina Yang Bongiovi. The film, which is narrated by Forest Whitaker, also stars Tony Revolori, Kiersey Clemons, Zoë Kravitz, Kimberly Elise and A$AP Rocky.His strong musical ability was recognized when he recorded several tracks for the film's soundtrack",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BMjAwNDU2OTc5M15BMl5BanBnXkFtZTgwOTk0ODMyNDE@._V1_FMjpg_UY3600_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+            },
+            {
+              "id": 8,
+              "age": 42,
+              "name": "Hailee Steinfeld",
+              "type": ["Actress" ,"Producer","Composer"],
+              "mini_bio": "Hailee Steinfeld was born on December 11, 1996 in Tarzana, California, to Cheri (Domasin), an interior designer, and Peter Steinfeld, a personal fitness trainer. She has a brother, Griffin. Her uncle is Jake Steinfeld, a fitness trainer, and her great-uncle is actor Larry Domasin. Her father is of Ashkenazi Jewish descent and her mother's ancestry is Filipino, African-American, British Isles, and German. ",
+              "avatar": "https://m.media-amazon.com/images/M/MV5BMGFmZDVhZDUtZWIyNC00NzBjLTg0ZGEtY2FhMjJlZWJhZjBlXkEyXkFqcGdeQXVyMTcwNzE4OTI@._V1_FMjpg_UX1200_.jpg",
+              "videos": 62,
+              "gallery_image": 50,
+              "tailer": 1
+          }
+          ]
+        }
+      ]
+    }
   }
 ]

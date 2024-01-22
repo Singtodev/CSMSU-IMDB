@@ -17,8 +17,8 @@ export class MovieStatsComponent {
 
   @Input() movieVoteCount: string  = '';
   @Input() movieRate: string  = '';
-  @Input() moviePopularity: string  = '';
-  @Input() movie: Movie  = {};
+  @Input() moviePopularity: string = '';
+  @Input() movie: any;
 
 
   onClickYourRate() {

@@ -2,14 +2,43 @@ import { Component, Input } from '@angular/core';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faCaretRight , faStar } from '@fortawesome/free-solid-svg-icons';
 import { Router } from '@angular/router';
+import { People } from '../people-card/people.component';
 export interface Movie {
-  idx?: number,
-  name?: string,
-  image?: string,
-  imdbRate?: string,
-  rate?: string,
-  video?: string,
+  idx:   number;
+  name:  string;
+  image: string;
+  video: string;
+  about: About;
+  imdbRate: string;
+  popularity: string;
+  categories: String[];
+  shortDetail: String;
 }
+
+export interface About {
+  rate_movie?: RateMovie;
+  details?:    Detail[];
+  reviews?: Review 
+}
+
+export interface Review {
+  userReview: string
+  criticReview: string
+}
+
+export interface Detail {
+  order?:  number;
+  key?:    string;
+  values?: People[];
+}
+
+export interface RateMovie {
+  year?:     string;
+  rate?:     string;
+  duration?: string;
+  
+}
+
 @Component({
   selector: 'app-movie-card',
   standalone: true,

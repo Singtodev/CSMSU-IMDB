@@ -1,90 +1,101 @@
 [
     {
         "id": 1,
-        "age": 44,
-        "name": "Lin-Manuel Miranda",
-        "type": ["Actor", "Composer", "Music Department"],
-        "mini_bio": "Lin-Manuel Miranda wrote the first incarnation of \"In the Heights\" his sophomore year at Wesleyan University in Connecticut. Off-Broadway, \"In The Heights\" received nine Drama Desk nominations, including best music, best lyrics, and it won the award for outstanding ensemble performance; received the Lucille Lortel Award and Outer Critics Circle Award for best musical; received the Obie Award for outstanding music and lyrics; received a Theater World Award for outstanding debut Performance and the Clarence Derwent Award both for Mr. Miranda's performance. He is the recipient of the 2007 ASCAP Richard Rodgers New Horizons Award. He has appeared on The Sopranos (1999) and Sex and the City (1998), House (2004), and The Electric Company (2006). He is also a co-founding member of Freestyle Love Supreme, a hip-hop comedy group that tours comedy festivals all over the world.",
-        "avatar": "https://m.media-amazon.com/images/M/MV5BMTU0MDM2Mzg0OV5BMl5BanBnXkFtZTgwMjA1MDE2MDI@._V1_FMjpg_UY736_.jpg",
+        "age": 46,
+        "name": "Joaquim Dos Santos",
+        "type": ["Producer", "Art Department", "Animation Department"],
+        "mini_bio": "Joaquim Dos Santos was born on 22 June 1977 in Lisbon, Portugal. He is a producer, known for Spider-Man: Across the Spider-Verse (2023), The Legend of Korra (2012) and Avatar: The Last Airbender (2005).",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BNjcyNTcxOTU4MV5BMl5BanBnXkFtZTcwODAxNzkyMg@@._V1_FMjpg_UX1138_.jpg",
         "videos": 62,
         "gallery_image": 50,
         "tailer": 1
-      },
-      {
+    },
+    {
         "id": 2,
-        "age": 55,
-        "name": "Olivia d'Abo",
-        "type": ["Actress", "Music Department", "Producer"],
-        "mini_bio": "Olivia d'Abo is an English actress and singer from London. She debuted as a teenager in 1984, and has remained active over the following decades. Her most famous role was playing the free-spirited Karen Arnold in the historical television series \"The Wonder Years\" (1988 -1993). The series lasted for 6 seasons, and a total of 115 episodes."        ,
-        "avatar": "https://m.media-amazon.com/images/M/MV5BNjI0MDE2ODk0OF5BMl5BanBnXkFtZTgwNTI2MTIzNTE@._V1_FMjpg_UY2048_.jpg",
-        "videos": 57,
-        "gallery_image": 48,
-        "tailer": 2
-      },
-      {
-        "id": 3,
-        "age": 77,
-        "name": "John Hurt",
-        "type": ["Actor" , "Soundtrack"],
-        "mini_bio": "One of stage, screen and TV's finest transatlantic talents, slight, gravel-voiced, pasty-looking John Vincent Hurt was born on January 22, 1940, in Shirebrook, a coal mining village, in Derbyshire, England. The youngest child of Phyllis (Massey), an engineer and one-time actress, and Reverend Arnould Herbert Hurt, an Anglican clergyman and mathematician, his quiet shyness betrayed an early passion for acting. First enrolled at the Grimsby Art School and St. Martin's School of Art, his focus invariably turned from painting to acting.",
-        "avatar": "https://m.media-amazon.com/images/M/MV5BMTM1NTgyMTAyOV5BMl5BanBnXkFtZTcwMTE4MjQwNA@@._V1_FMjpg_UX284_.jpg",
-        "videos": 120,
-        "gallery_image": 120,
-        "tailer": null
-      },
-      {
-        "id": 4,
-        "age": 95,
-        "name": "Stan Lee",
-        "type": ["Producer" ,"Writer","Actor"],
-        "mini_bio": "Stan Lee was an American comic-book writer, editor, and publisher, who was executive vice president and publisher of Marvel Comics.",
-        "avatar": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_FMjpg_UX278_.jpg",
-        "videos": 66,
-        "gallery_image": 120,
-        "tailer": null
-      },
-      {
-        "id": 5,
-        "age": 38,
-        "name": "Eva Johnson",
-        "type": ["Actress", "Model"],
-        "mini_bio": "Eva Johnson is a versatile actress and model known for her captivating performances on both stage and screen. With a background in theater, she has seamlessly transitioned into the world of cinema, earning acclaim for her roles in various genres.",
-        "avatar": "https://m.media-amazon.com/images/S/pv-target-images/1867d8e33e041eef543a635d9feeb91fecd91d02d8bb0e84917d9e6c51dbb83c._SX600_.jpg",
-        "videos": 40,
-        "gallery_image": 30,
-        "trailer": null
-      },
-      {
-        "id": 6,
         "age": 50,
-        "name": "Lucas Blackwood",
-        "type": ["Actor", "Writer"],
-        "mini_bio": "Lucas Blackwood is an accomplished actor and writer, known for his intense and transformative performances. With a career spanning over two decades, he has earned critical acclaim for his work in both film and television.",
-        "avatar": "https://i.pinimg.com/564x/1e/5c/52/1e5c52e60b2ac3ec14eefabed714265f.jpg",
-        "videos": 75,
-        "gallery_image": 60,
-        "trailer": null
-      },
-      {
+        "name": "Kemp Powers",
+        "type": ["Writer", "Director", "Producer"],
+        "mini_bio": "Kemp Powers is known for One Night in Miami... (2020), Soul (2020) and Spider-Man: Across the Spider-Verse (2023).",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BZmU5MTBlMzgtNGYzOS00MmYxLWI5YmMtNTQxNmEyZjI5ZjVmXkEyXkFqcGdeQXVyMTA3ODI2ODY@._V1_FMjpg_UY1434_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    },
+    {
+        "id": 3,
+        "age": 40,
+        "name": "Justin K. Thompson",
+        "type": ["Director"],
+        "mini_bio": "Justin K. Thompson is known for Spider-Man: Across the Spider-Verse (2023), Spider-Man: Into the Spider-Verse (2018) and Cloudy with a Chance of Meatballs 2 (2013).",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BOWQ4ZDhjNDEtYzNjZi00OTNkLWFjNzQtZWQyZDcxYmI4ZDQwXkEyXkFqcGdeQXVyOTk3NzgyNTE@._V1_FMjpg_UY2055_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    },
+    {
+        "id": 4,
+        "age": 45,
+        "name": "Phil Lord",
+        "type": ["Producer" , "Writer" , "Actor"],
+        "mini_bio": "Philip A. Lord is an American filmmaker, producer and writer who collaborates with Christopher Miller. They both worked on Clone High, a cult classic animated sci-fi teen comedy show, The Lego Movie, 21 Jump Street, 22 Jump Street and Spider-Man: Into the Spider-Verse. Into the Spider-Verse is considered one of the best animated films of the 2010s and won Best Animated Feature.",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BOTI5NTUwMTAwOV5BMl5BanBnXkFtZTcwMDIxMDgzOQ@@._V1_FMjpg_UY2048_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    },
+    {
+        "id": 5,
+        "age": 30,
+        "name": "Christopher Miller",
+        "type": ["Producer" , "Writer" , "Director"],
+        "mini_bio": "Christopher Miller is an American filmmaker, producer and writer who collaborates with Philip A. Lord. They both worked on Clone High, a cult classic animated sci-fi teen comedy show, The Lego Movie, Cloudy with a Chance of Meatballs, 21 Jump Street, 22 Jump Street and Spider-Man: Into the Spider-Verse. Into the Spider-Verse is considered one of the best animated films of the 2010s and won Best Animated Feature.",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTAzNDAzODgzOTheQTJeQWpwZ15BbWU3MDc5MDg4MTg@._V1_FMjpg_UY2048_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    },
+    {
+        "id": 6,
+        "age": 34,
+        "name": "Dave Callaham",
+        "type": ["Producer" , "Writer"],
+        "mini_bio": "Dave Callaham was born in Fresno, California, USA. Dave is a writer and producer, known for Shang-Chi and the Legend of the Ten Rings (2021), Spider-Man: Across the Spider-Verse (2023) and Jean-Claude Van Johnson (2016). Dave has been married to Bree Tichy since 9 May 2009. They have one child.",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BOTgwODBmZTItMGZmYi00MWY2LTllZjMtZDc4YjM0NzRmMjNhXkEyXkFqcGdeQXVyNDEzMDkzOQ@@._V1_FMjpg_UX986_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    },
+    {
         "id": 7,
-        "age": 32,
-        "name": "Isabella Sanchez",
-        "type": ["Actress", "Producer"],
-        "mini_bio": "Isabella Sanchez is a rising star in the entertainment industry, making a mark with her compelling performances and behind-the-scenes contributions as a producer. Her dedication to her craft has garnered attention and accolades.",
-        "avatar": "https://images6.fanpop.com/image/articles/267000/movies_267769_top_full.jpg?cache=1529631958",
-        "videos": 50,
-        "gallery_image": 40,
-        "trailer": null
-      },
-      {
+        "age": 40,
+        "name": "Shameik Moore",
+        "type": ["Actor" , "SoundTrack"],
+        "mini_bio": "Born in Atlanta of Jamaican descent, Shameik Moore booked his first lead role of Malcolm in Rick Famuyiwa's Dope (2015), produced by Forest Whitaker and Nina Yang Bongiovi. The film, which is narrated by Forest Whitaker, also stars Tony Revolori, Kiersey Clemons, Zoë Kravitz, Kimberly Elise and A$AP Rocky.His strong musical ability was recognized when he recorded several tracks for the film's soundtrack",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjAwNDU2OTc5M15BMl5BanBnXkFtZTgwOTk0ODMyNDE@._V1_FMjpg_UY3600_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    },
+    {
         "id": 8,
-        "age": 48,
-        "name": "Victor Chen",
-        "type": ["Actor", "Director"],
-        "mini_bio": "Victor Chen is a highly respected actor and director known for his versatility and skill in bringing characters to life. His passion for storytelling has led to successful collaborations in both film and theater.",
-        "avatar": "https://m.media-amazon.com/images/M/MV5BZTU4ODc0OGMtYjg5My00NDFhLWE2ODMtMzE1MGE4NGFhZWM3XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_FMjpg_UX290_.jpg",
-        "videos": 90,
-        "gallery_image": 80,
-        "trailer": null
-      }
+        "age": 42,
+        "name": "Hailee Steinfeld",
+        "type": ["Actress" ,"Producer","Composer"],
+        "mini_bio": "Hailee Steinfeld was born on December 11, 1996 in Tarzana, California, to Cheri (Domasin), an interior designer, and Peter Steinfeld, a personal fitness trainer. She has a brother, Griffin. Her uncle is Jake Steinfeld, a fitness trainer, and her great-uncle is actor Larry Domasin. Her father is of Ashkenazi Jewish descent and her mother's ancestry is Filipino, African-American, British Isles, and German. ",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMGFmZDVhZDUtZWIyNC00NzBjLTg0ZGEtY2FhMjJlZWJhZjBlXkEyXkFqcGdeQXVyMTcwNzE4OTI@._V1_FMjpg_UX1200_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    },
+    {
+        "id": 9,
+        "age": 47,
+        "name": "Brian Tyree Henry",
+        "type": ["Actor" ,"Producer","Additional Crew"],
+        "mini_bio": "Hailee Steinfeld was born on December 11, 1996 in Tarzana, California, to Cheri (Domasin), an interior designer, and Peter Steinfeld, a personal fitness trainer. She has a brother, Griffin. Her uncle is Jake Steinfeld, a fitness trainer, and her great-uncle is actor Larry Domasin. Her father is of Ashkenazi Jewish descent and her mother's ancestry is Filipino, African-American, British Isles, and German. ",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjc5Njg2OTQtNmNkMS00YmZlLWIwYzgtNGQ5MjFkNTliMWIxXkEyXkFqcGdeQXVyMjE0NjY2NTA@._V1_FMjpg_UY11648_.jpg",
+        "videos": 62,
+        "gallery_image": 50,
+        "tailer": 1
+    }
 ]

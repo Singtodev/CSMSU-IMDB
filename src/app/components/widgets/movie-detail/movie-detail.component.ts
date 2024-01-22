@@ -4,6 +4,7 @@ import { CommonModule } from '@angular/common';
 import { DomSanitizer } from '@angular/platform-browser';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faPlayCircle  } from '@fortawesome/free-regular-svg-icons'
+import { Router } from '@angular/router';
 @Component({
   selector: 'app-movie-detail',
   standalone: true,
@@ -13,13 +14,13 @@ import { faPlayCircle  } from '@fortawesome/free-regular-svg-icons'
 })
 export class MovieDetailComponent implements OnInit{
 
-  @Input() movie: Movie = {};
+  @Input() movie: any;
 
   public safeURL: any;
   public showContent: boolean = true;
   public faPlayCircle  = faPlayCircle;
   
-  constructor(private _sanitizer: DomSanitizer){
+  constructor(private _sanitizer: DomSanitizer , private router: Router){
     
   }
   ngOnInit(): void {
@@ -40,5 +41,9 @@ export class MovieDetailComponent implements OnInit{
 
   onAddtoList(){
     alert("Add to list work!");
+  }
+
+  gotoPerson(personId: string){
+    this.router.navigate(['/caster/' + personId])
   }
 }

@@ -7,45 +7,11 @@
       <fa-icon [icon]="faArrowLeft"></fa-icon>
       Back
     </div>
-    <!-- <div class="w-full flex justify-end">
-      <div class="nav-menu flex flex-row text-sm pt-2 pb-3 gap-x-5">
-        <li
-          class="list-none hover:underline transition-all duration-300 cursor-pointer"
-        >
-          Cast & crew
-        </li>
-        <li
-          class="list-none hover:underline transition-all duration-300 cursor-pointer before:content-['\2022'] before:mr-1"
-        >
-          User reviews
-        </li>
-        <li
-          class="list-none hover:underline transition-all duration-300 cursor-pointer before:content-['\2022'] before:mr-1"
-        >
-          Trivia
-        </li>
-        <li
-          class="list-none hover:underline transition-all duration-300 cursor-pointer before:content-['\2022'] before:mr-1"
-        >
-          FAQ
-        </li>
-        <li
-          class="list-none hover:underline transition-all duration-300 cursor-pointer"
-        >
-          IMDbPro
-        </li>
-        <li
-          class="list-none hover:underline transition-all duration-300 cursor-pointer"
-        >
-          All Topics
-        </li>
-      </div>
-    </div> -->
     <app-movie-stats
       [movie]="movie"
       [movieVoteCount]="movieVoteCount"
       [movieRate]="movieRate"
-      [moviePopularity]="'1'"
+       moviePopularity="{{movie.popularity}}"
     />
     <app-movie-detail [movie]="movie" />
   </div>

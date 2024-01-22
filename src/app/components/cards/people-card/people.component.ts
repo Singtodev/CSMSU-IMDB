@@ -2,6 +2,18 @@ import { CommonModule } from '@angular/common';
 import { Component, Input } from '@angular/core';
 import { Router } from '@angular/router';
 
+export interface People {
+  id?:            number;
+  age?:           number;
+  name?:          string;
+  type?:          string[];
+  mini_bio?:      string;
+  avatar?:        string;
+  videos?:        number;
+  gallery_image?: number;
+  tailer?:        number;
+}
+
 @Component({
   selector: 'app-people-card',
   standalone: true,
