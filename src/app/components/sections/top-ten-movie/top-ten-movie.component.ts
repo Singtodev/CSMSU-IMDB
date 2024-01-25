@@ -1,7 +1,7 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
-import Movies from '../../../../assets/jsons/most-popular-movies-imdb.json';
+import Movies from '../../../../assets/jsons/movies.json';
 import { MovieSliderComponent } from '../../widgets/movie-slider/movie-slider.component';
 import { SectionTitleComponent } from '../../widgets/section-title/section-title.component';
 

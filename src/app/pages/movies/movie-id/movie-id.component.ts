@@ -1,7 +1,7 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { ActivatedRoute, NavigationEnd, Router } from '@angular/router';
 import { Subscription } from 'rxjs';
-import Movies from '../../../../assets/jsons/most-popular-movies-imdb.json';
+import Movies from '../../../../assets/jsons/movies.json';
 import { Movie } from '../../../components/cards/movie-card/movie-card.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';

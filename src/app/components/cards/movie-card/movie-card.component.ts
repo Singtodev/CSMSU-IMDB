@@ -16,9 +16,10 @@ export interface Movie {
 }
 
 export interface About {
+  users_added?: string;
   rate_movie?: RateMovie;
   details?:    Detail[];
-  reviews?: Review 
+  reviews?: Review;
 }
 
 export interface Review {
