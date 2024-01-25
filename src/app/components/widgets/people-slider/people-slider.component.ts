@@ -11,4 +11,6 @@ import { PeopleCardComponent  } from '../../cards/people-card/people.component';
 })
 export class PeopleSliderComponent {
   @Input() peoples: any[] = [];
+
+
 }

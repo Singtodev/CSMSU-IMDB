@@ -11,10 +11,10 @@
   </div>
   <div class="flex flex-row gap-x-8 text-xs py-2 text-gray-400 font-semibold">
     <div class="flex flex-col">
-      <div class="tracking-wider pb-1">IMDb RATING</div>
+      <div class="tracking-wider whitespace-nowrap pb-1">IMDb RATING</div>
       <div
         (click)="onClickImdbRate()"
-        class="h-[40px] flex flex-row gap-x-2 items-center hover:bg-second transition-all duration-300 px-1 rounded-md cursor-pointer"
+        class="h-[40px] flex flex-row whitespace-nowrap gap-x-2 items-center hover:bg-second transition-all duration-300 px-1 rounded-md cursor-pointer"
       >
         <fa-icon class="text-lg text-yellow-300" [icon]="faStar"></fa-icon>
         <div class="flex flex-col">
@@ -31,7 +31,7 @@
       </div>
     </div>
     <div class="flex flex-col">
-      <div class="tracking-wider pb-1">YOUR RATING</div>
+      <div class="tracking-wider pb-1 whitespace-nowrap">YOUR RATING</div>
       <div
         (click)="onClickYourRate()"
         class="h-[40px] flex text-blue-400 flex-row gap-x-2 items-center hover:bg-second transition-all duration-300 px-1 rounded-md cursor-pointer"
@@ -41,7 +41,7 @@
       </div>
     </div>
     <div class="flex flex-col">
-      <div class="tracking-wider pb-1">POPULARITY</div>
+      <div class="tracking-wider pb-1 whitespace-nowrap ">POPULARITY</div>
       <div
         (click)="onClickPopularity()"
         class="h-[40px] flex text-gray-400 flex-row gap-x-2 justify-center items-center hover:bg-second transition-all duration-300 px-1 rounded-md cursor-pointer"

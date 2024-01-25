@@ -12,6 +12,8 @@ export interface People {
   videos?:        number;
   gallery_image?: number;
   tailer?:        number;
+  born?:          string;
+  video?:         string;
 }
 
 @Component({
