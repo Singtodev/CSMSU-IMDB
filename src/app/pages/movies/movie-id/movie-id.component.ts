@@ -26,6 +26,7 @@ export class MovieIdComponent implements OnInit , OnDestroy {
   public movieRate: string = '';
   public movieVoteCount: string = '';
   public faArrowLeft = faArrowLeft;
+  
   constructor(public activeRoute: ActivatedRoute , public location: Location , public router : Router){
     this.routeSub = this.activeRoute.paramMap.subscribe(params => {
       this.movieId = Number(params.get('id')) || null;
