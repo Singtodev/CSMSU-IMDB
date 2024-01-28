@@ -57,7 +57,7 @@ export class MovieCardComponent {
 
 
   public watchTrailer(){
-    this.router.navigate(['/movies/trailer/' + this.item.idx]);
+   alert("Trailer Worked!")
   }
 
   public watchMovieDetail(){
